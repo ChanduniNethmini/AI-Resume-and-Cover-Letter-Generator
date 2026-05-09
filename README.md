@@ -8,3 +8,6 @@ This generate ATS friendly Resume and cover letters by taking raw user inputs
 → Downloads instantly
 
 ## Tech: Python + OpenAI API
+
+Documented the entire process on Medium. Click the link below
+https://lnkd.in/gniu9t86
